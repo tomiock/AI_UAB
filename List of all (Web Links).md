@@ -1,6 +1,7 @@
 ## 1º Year
 ### 1º Semester
 ##### Fundamentals of Mathematics I (Algebra)
+- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 ##### Fundamentals of Programming I (Python)
 ##### Cognitive Processes 
 ##### Introduction to AI
