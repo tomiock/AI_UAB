@@ -2,11 +2,11 @@
 ### 1º Semester
 ##### Fundamentals of Mathematics I (Algebra)
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
-- [Linear Algebra Done Right (3th ED](http://ndl.ethernet.edu.et/bitstream/123456789/88600/1/2015_Book_LinearAlgebraDoneRight.pdf)
+- [Linear Algebra Done Right (3th Ed)](http://ndl.ethernet.edu.et/bitstream/123456789/88600/1/2015_Book_LinearAlgebraDoneRight.pdf)
 ##### Fundamentals of Programming I (Python)
 ##### Cognitive Processes 
 ##### Introduction to AI
-- [AI: A Modern Approach (3th ED)](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)
+- [AI: A Modern Approach (3th Ed)](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)
 ##### Computational Logic
 
 ### 2º Semester
