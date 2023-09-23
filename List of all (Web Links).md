@@ -4,6 +4,7 @@
 ##### Fundamentals of Programming I (Python)
 ##### Cognitive Processes 
 ##### Introduction to AI
+- [AI: A Modern Approach (3th Edition](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig)
 ##### Computational Logic
 
 ### 2º Semester
