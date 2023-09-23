@@ -1,3 +1,5 @@
+Links can take time to load because they can be large files. 
+
 ## 1º Year
 ### 1º Semester
 ##### Fundamentals of Mathematics I (Algebra)
