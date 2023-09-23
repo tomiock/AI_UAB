@@ -6,7 +6,7 @@ Links can take time to load because they can be large files.
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Linear Algebra Done Right (3th Ed)](http://ndl.ethernet.edu.et/bitstream/123456789/88600/1/2015_Book_LinearAlgebraDoneRight.pdf)
 ##### Fundamentals of Programming I (Python)
-- [Intro to Computation and Programming Using Python with data applications ](http://repo.darmajaya.ac.id/5070/1/Introduction%20to%20Computation%20and%20Programming%20Using%20Python%20by%20John%20V.%20Guttag%20%28z-lib.org%29.pdf)
+- [Intro to Computation and Programming Using Python with data applications (3th ed)](http://repo.darmajaya.ac.id/5070/1/Introduction%20to%20Computation%20and%20Programming%20Using%20Python%20by%20John%20V.%20Guttag%20%28z-lib.org%29.pdf)
 ##### Cognitive Processes 
 ##### Introduction to AI
 - [AI: A Modern Approach (3th Ed)](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)
