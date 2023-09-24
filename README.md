@@ -1,5 +1,6 @@
 # BooksAI
-Books for AI Degree in UAB
+Books for AI Degree in UAB. PDF files to download or links to websides.
+Books may include a brief summary/tips.
 
 ### DO NOT SHARE WITH ANYONE THAT IS NOT A STUDENT, NO TEACHERS ALLOWED
 
