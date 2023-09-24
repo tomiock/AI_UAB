@@ -9,7 +9,7 @@ Links can take time to load because they can be large files.
 - [Intro to Computation and Programming Using Python with data applications (3th ed)](http://repo.darmajaya.ac.id/5070/1/Introduction%20to%20Computation%20and%20Programming%20Using%20Python%20by%20John%20V.%20Guttag%20%28z-lib.org%29.pdf) `690 pages`
 - [Python Course (Project Based)](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf) `562 pages`
 ##### Cognitive Processes
-- [Cognitive Psychology: A Student's Handbook (8th ed)](https://dokumen.pub/cognitive-psychology-a-students-handbook-8nbsped-1138482218-9781138482210.html) (download link) `981 pages`
+- [Cognitive Psychology: A Student's Handbook (8th ed)](https://dokumen.pub/cognitive-psychology-a-students-handbook-8nbsped-1138482218-9781138482210.html) (link to download) `981 pages`
 ##### Introduction to AI
 - [AI: A Modern Approach (3th Ed)](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf) `1151 pages`
 ##### Computational Logic
