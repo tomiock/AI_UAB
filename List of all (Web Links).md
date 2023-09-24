@@ -12,6 +12,7 @@ Links can take time to load because they can be large files.
 ##### Introduction to AI
 - [AI: A Modern Approach (3th Ed)](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf) `1151 pages`
 ##### Computational Logic
+- [forall$x$ An Intro to Formal Logic](https://forallx.openlogicproject.org/forallxyyc.pdf) `437 pages` [other version available](https://forallx.openlogicproject.org/)
 
 ### 2º Semester
 ##### Fundamentals of Mathematics II (Calculus)
