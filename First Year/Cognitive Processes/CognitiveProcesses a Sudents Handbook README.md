@@ -1,0 +1,1 @@
+This book is very extense (nearly 1000 pages) and thus very cumbersome. There is a great quantity of information specilly when citing where the knowledge comes from (citations and diferent perspectives). For example when talking about a specific theory describing a concept or process, the book explain all the pros and cons of the theory. 
