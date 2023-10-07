@@ -11,7 +11,7 @@ Links can take time to load because they can be large files.
 ##### Cognitive Processes
 - [Cognitive Psychology: A Student's Handbook (8th ed)](https://dokumen.pub/cognitive-psychology-a-students-handbook-8nbsped-1138482218-9781138482210.html) (link to download) `981 pages`
 ##### Introduction to AI
-- [AI: A Modern Approach (3th Ed)](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf) `1151 pages`
+- [AI: A Modern Approach (4th Ed)](https://ia903402.us.archive.org/35/items/artificial-intelligence-a-modern-approach-4th-edition/Artificial%20Intelligence%20A%20Modern%20Approach%20%284th%20Edition%29.pdf) `~2000 pages`
 ##### Computational Logic
 - [forallx An Intro to Formal Logic](https://forallx.openlogicproject.org/forallxyyc.pdf) `437 pages` [other versions available here](https://forallx.openlogicproject.org/)
 
