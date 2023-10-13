@@ -1,11 +1,10 @@
-# BooksAI
-Books for AI Degree in UAB. PDF files to download or links to websides.
-Books may include a brief summary/tips.
+# AI_UAB
+Relevant files for the Artificial Intelligence Degree (books, notes, exams, presentations...)
 
-### DO NOT SHARE WITH ANYONE THAT IS NOT A STUDENT, NO TEACHERS ALLOWED
+## DO NOT SHARE WITH ANYONE THAT IS NOT A STUDENT, NO TEACHERS ALLOWED
 
-### Issues with links:
-If any issue is found with a link (e.g. non existent page). Please open an issue with the name of the book and it will be fixed. 
+## Issues with links:
+If any issue is found with a link for a book (e.g. non existent page). Please open an issue with the name of the book and it will be fixed. 
 
-### Suggesting a book
-Open an issue with the link to the pdf and the name of the course. Also you can fork the repository and send a pull request :D
+## Suggesting content
+Open an issue delailing what do you wnat to add. Also you can fork the repository and send a pull request :D
