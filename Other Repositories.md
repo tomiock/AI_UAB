@@ -1,4 +1,4 @@
-## Other repositories with related content (books, cheatsheets, notes...)
+## Other repositories with related resources (books, cheatsheets, notes...)
 The administrator of this repository are not responsible for changes or content included in the repositories of this list. 
 
 #### Book about Data Science, Programming and NLP
