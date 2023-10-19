@@ -5,6 +5,7 @@ Links can take time to load because they can be large files.
 ##### Fundamentals of Mathematics I (Algebra)
 - [Mathematics for Machine Learning (all of math)](https://mml-book.github.io/book/mml-book.pdf) `412 pages`
 - [Linear Algebra Done Right (3th Ed)](http://ndl.ethernet.edu.et/bitstream/123456789/88600/1/2015_Book_LinearAlgebraDoneRight.pdf) `352 pages`
+- [Linear Algebra and its Applications (Bretcher)](https://umich.instructure.com/files/17102166/download?download_frd=1) `527 pages`
 ##### Fundamentals of Programming I (Python)
 - [Intro to Computation and Programming Using Python with data applications (3th ed)](http://repo.darmajaya.ac.id/5070/1/Introduction%20to%20Computation%20and%20Programming%20Using%20Python%20by%20John%20V.%20Guttag%20%28z-lib.org%29.pdf) `690 pages`
 - [Python Course (Project Based)](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf) `562 pages`
