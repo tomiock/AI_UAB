@@ -1,5 +1,5 @@
 # AI_UAB
-Relevant resources for the Artificial Intelligence Degree (books, notes, exams, presentations...)
+Relevant resources for the Artificial Intelligence Degree (books, notes, exams, slides...)
 
 ## DO NOT SHARE WITH ANYONE THAT IS NOT A STUDENT, NO TEACHERS ALLOWED
 
