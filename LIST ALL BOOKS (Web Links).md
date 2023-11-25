@@ -19,10 +19,12 @@ Links can take time to load because they can be large files.
 
 ### 2º Semester
 ##### Fundamentals of Mathematics II (Calculus)
+- [Mathematics for Machine Learning (all of math)](https://mml-book.github.io/book/mml-book.pdf) `412 pages`
 ##### Fundamentals of Programming II (C/C++)
 ##### Data Engineering
 ##### Fundamentals of Computing
 ##### Probability and Statistics
+- [Mathematics for Machine Learning (all of math)](https://mml-book.github.io/book/mml-book.pdf) `412 pages`
 
 ## 2º Year
 ### 1º Semeste
