@@ -12,7 +12,6 @@
 - [Partial Derivatives Graph Examples](https://www.youtube.com/watch?v=dfvnCHqzK54) `7min`
 
 ### Neural Networks
-- [Gradient Descent (How NNs learn?)](https://www.youtube.com/watch?v=IHZwWFHWa-w) `220min`
+- [Gradient Descent (How NNs learn?)](https://www.youtube.com/watch?v=IHZwWFHWa-w) `20min`
 - [Playlist on NNs](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) `4 videos`
-
-**This course on Neural Networks in obligatory to watch, I'm serious - *Tomi***
+**This brief course on Neural Networks in obligatory to watch, I'm serious please do it- *Tomi***
