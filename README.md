@@ -9,3 +9,5 @@ If any issue is found with a link for a book (e.g. non existent page). Please op
 
 ## Suggesting resources
 Open an issue delailing what do you wnat to add. Also you can fork the repository and send a pull request :D
+
+![image](https://github.com/tomiock/AI_UAB/assets/38719343/41c0e6be-00aa-4eaf-a1f9-5328a9670161)
