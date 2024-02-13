@@ -6,3 +6,7 @@ https://github.com/shivamms/books/
 
 #### Resources/Project/Books about Data Science 
 https://github.com/data-science-projects-and-resources/Data-Science-EBooks/tree/main
+
+### EVERYTHING Deep Learning Guide
+It is made for people that are not college student, but can be also useful for us.
+https://github.com/0xsanny/deep-learning-guide
