@@ -15,3 +15,6 @@
 - [Gradient Descent (How NNs learn?)](https://www.youtube.com/watch?v=IHZwWFHWa-w) `20min`
 - [Playlist on NNs](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) `4 videos`
 **This brief course on Neural Networks in obligatory to watch, I'm serious please do it- *Tomi***
+
+### Programming II (C/C++)
+- [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) `8 min` Do understand what a pointer is, gives the basic knowledge in a clear and consise way.
