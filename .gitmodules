@@ -1,0 +1,6 @@
+[submodule "First Year/2 Second Semester/Data Engineering/Books/--force"]
+	path = First Year/2 Second Semester/Data Engineering/Books/--force
+	url = https://github.com/data-8/textbook
+[submodule "First Year/2 Second Semester/Data Engineering/Books/Foundations_Data_Science"]
+	path = First Year/2 Second Semester/Data Engineering/Books/Foundations_Data_Science
+	url = https://github.com/data-8/textbook
