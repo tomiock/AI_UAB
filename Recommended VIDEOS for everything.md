@@ -18,3 +18,4 @@
 
 ### Programming II (C/C++)
 - [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM) `8 min` Do understand what a pointer is, gives the basic knowledge in a clear and consise way.
+- [The Last Algorithms Course That You'll Ever Need](https://frontendmasters.com/courses/algorithms) `7h total` (the important parts). Course that covers everything done in class (algorithms and data structures). It is done on TypeScript, however, the theorical concepts are the same ones and better explained.
