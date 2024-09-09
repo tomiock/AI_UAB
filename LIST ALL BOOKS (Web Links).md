@@ -32,6 +32,8 @@ Links can take time to load because they can be large files.
 ##### Ethics
 ##### Fundamentals of Machine Learning
 ##### Problem Solving
+- [AI: A Modern Approach (4th Ed)](https://ia903402.us.archive.org/35/items/artificial-intelligence-a-modern-approach-4th-edition/Artificial%20Intelligence%20A%20Modern%20Approach%20%284th%20Edition%29.pdf) `~2000 pages` (do not use this one, there is a downloadable version [here](https://github.com/tomiock/AI_UAB/blob/2f2e35b53aebaa859d198b81baf344e8965a65fb/First%20Year/1%20First%20Semester/Introduction%20to%20AI/Books/Artificial%20Intelligence%20A%20Modern%20Approach%20(4th%20Edition).pdf)) Chapters 3,4 and 5.
+
 ##### Fundamentals of Computer Vision
 ##### Mind and Brain I
 
