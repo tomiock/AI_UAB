@@ -23,6 +23,7 @@ Links can take time to load because they can be large files.
 ##### Fundamentals of Programming II (C/C++)
 - [Data Structures and Algorithm Analysis in C](https://mrajacse.wordpress.com/wp-content/uploads/2012/08/data-structures-and-algorithm-analysis-in-c-mark-allen-weiss.pdf) `492 pages`
 ##### Data Engineering
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) `webpage`
 ##### Fundamentals of Computing
 ##### Probability and Statistics
 - [Mathematics for Machine Learning (all of math)](https://mml-book.github.io/book/mml-book.pdf) `412 pages`
