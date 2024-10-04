@@ -25,6 +25,7 @@ Links can take time to load because they can be large files.
 ##### Data Engineering
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) `webpage`
 ##### Fundamentals of Computing
+- Its just better to search the concepts that come up in the slides individually.
 ##### Probability and Statistics
 - [Mathematics for Machine Learning (all of math)](https://mml-book.github.io/book/mml-book.pdf) `412 pages`
 - [Probability and Statistics for Engineering and Science (8th ed)](https://faculty.ksu.edu.sa/sites/default/files/probability_and_statistics_for_engineering_and_the_sciences.pdf) `776 pages`
