@@ -10,3 +10,7 @@ https://github.com/data-science-projects-and-resources/Data-Science-EBooks/tree/
 ### EVERYTHING Deep Learning Guide
 It is made for people that are not college student, but can be also useful for us.
 https://github.com/0xsanny/deep-learning-guide
+
+#### Convolutions Visualized
+Visualization of convolutions (different types of them) commontly used in Convolutional Neural Networks. There are also explainer videos.
+https://animatedai.github.io/
